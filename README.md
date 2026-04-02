@@ -63,8 +63,6 @@ MoM Growth % =
 
 ## 👤 Author
 **KAVIN VENKAT**
-[LinkedIn](www.linkedin.com/in/kavin-venkat-1710s0202) 
+[LinkedIn](https://www.linkedin.com/in/kvsherly17100210) 
 
-📁 retail-sales-revenue-prediction← ML + Time Series
-📁 sql-analytics-superstore       ← SQL
-📁 sales-powerbi-dashboard        ← Power BI ← NEW
+
